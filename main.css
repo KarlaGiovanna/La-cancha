@@ -1,0 +1,62 @@
+/* Inserta tu CSS aqui */
+
+div{
+	position: absolute;
+	border: 1px solid white;
+	background-color: #8CB27C;
+}
+
+img {
+	position: absolute;
+}
+
+.container {
+	width: 930px;
+	height: 530px;
+	left: 20%;
+	bottom: 26%;
+}
+
+.cancha{
+	width: 890px;
+	height: 480px;
+	margin: 20px;
+}
+
+.goal1{
+	width: 120px;
+	height: 200px;
+	bottom: 30%;
+}
+
+.stopgoal{
+	width: 200px;
+	height: 200px;
+	bottom: 30%;
+	left: 39%;
+	border-radius: 50%;
+}
+
+.goal2{
+	width: 120px;
+	height: 200px;
+	bottom: 30%;
+	left: 86.3%;
+}
+
+.bool1{
+	left: 12%; 
+	bottom: 71.5%;
+}
+
+.bool2{
+	left: 52%;
+	bottom: 85%;
+}
+
+.bool3{
+	left: 83%;
+	bottom: 36%;
+
+
+}
